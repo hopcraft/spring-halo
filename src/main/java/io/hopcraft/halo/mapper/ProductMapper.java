@@ -9,5 +9,5 @@ import org.springframework.stereotype.Component;
 
 @Component
 public interface ProductMapper extends BaseMapper<Product> {
-  public List<Product> products();
+    public List<Product> products();
 }

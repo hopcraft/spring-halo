@@ -1,8 +1,0 @@
-logging:
-  file: "logs/config/halo-xx.log"
-
-info:
-  name: "SpringBoot"
-
-server:
-  port: 8877
